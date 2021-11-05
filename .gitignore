@@ -1,7 +1,17 @@
+# Mac OS
+.DS_Store
+_DS_Store
+*~*
+
+# Folders
+output/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.idea/
 
 # C extensions
 *.so
@@ -127,3 +137,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Latex
+*.cls
+*.tex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
