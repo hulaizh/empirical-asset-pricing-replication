@@ -1,2 +1,3 @@
 # empirical-asset-pricing-replication
-Replication of "Empirical asset pricing: The cross section of stock returns".
+> Bali, Turan G., Robert F. Engle, and Scott Murray. Empirical Asset Pricing: The Cross Section of Stock Returns. John Wiley & Sons, 2016.
+
